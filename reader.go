@@ -1,4 +1,4 @@
-package blockreader
+package blocksreader
 
 import (
 	"errors"
